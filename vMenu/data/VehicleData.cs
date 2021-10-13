@@ -1026,27 +1026,8 @@ namespace vMenuClient
             #region Emergency
             public static List<string> Emergency { get; } = new List<string>()
             {
-                "AMBULANCE",
-                "FBI",
-                "FBI2",
-                "FIRETRUK",
-                "LGUARD",
-                "PBUS",
-                "POLICE",
-                "POLICE2",
-                "POLICE3",
-                "POLICE4",
-                "POLICEB",
-                "POLICEOLD1",
-                "POLICEOLD2",
-                "POLICET",
-                "POLMAV",
-                "PRANGER",
-                "PREDATOR",
-                "RIOT",
-                "RIOT2",
-                "SHERIFF",
-                "SHERIFF2",
+                "valorcharg",
+                
             };
             #endregion
             #region Military
